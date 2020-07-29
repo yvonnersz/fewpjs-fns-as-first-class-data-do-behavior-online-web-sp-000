@@ -10,4 +10,8 @@ function handleClick(e) {
 /* End Given Code, don't edit above here...*/
 
 /* Write your implementation of greet() */
+function greet(time) {
+  let hour = parseInt(time.split(":")[0]);
+  
+}
 /* Write your implementation of displayMessage() */
