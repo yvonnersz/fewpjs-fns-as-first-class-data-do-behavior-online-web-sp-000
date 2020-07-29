@@ -1,5 +1,7 @@
 /* Given Code, don't edit */
 
+require 'pry'
+
 document.querySelector("button").addEventListener("click", handleClick);
 
 function handleClick(e) {
